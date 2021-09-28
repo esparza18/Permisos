@@ -1,0 +1,6 @@
+C:\Users\CESAR\Andoni\permisos\AccesoDatosPermisos\EntidadesPermisos\bin\Debug\EntidadesPermisos.dll
+C:\Users\CESAR\Andoni\permisos\AccesoDatosPermisos\EntidadesPermisos\bin\Debug\EntidadesPermisos.pdb
+C:\Users\CESAR\Andoni\permisos\AccesoDatosPermisos\EntidadesPermisos\obj\Debug\EntidadesPermisos.csproj.AssemblyReference.cache
+C:\Users\CESAR\Andoni\permisos\AccesoDatosPermisos\EntidadesPermisos\obj\Debug\EntidadesPermisos.csproj.CoreCompileInputs.cache
+C:\Users\CESAR\Andoni\permisos\AccesoDatosPermisos\EntidadesPermisos\obj\Debug\EntidadesPermisos.dll
+C:\Users\CESAR\Andoni\permisos\AccesoDatosPermisos\EntidadesPermisos\obj\Debug\EntidadesPermisos.pdb
