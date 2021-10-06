@@ -1,5 +1,7 @@
-create database permisos;
+drop database permisos;
+create database permisos;
 
+drop table usuarios;
 create table usuarios(
 idusuario int primary key auto_increment,
 nombre varchar(50),
@@ -7,6 +9,7 @@ apellidop varchar(30),
 apellidom varchar(30),
 fechanacimiento varchar(50),
 rfc varchar(50),
+contrasena varchar(50),
 fkidaccesos varchar(50),
 foreign key(fkidaccesos) references accesos(idaccesos));
 
@@ -39,3 +42,19 @@ insert into accesos values
 ('Usuario',true,true,false,false),
 ('Invitado',false,false,false,false);
 
+select * from accesos;
+
+
+select * from usuarios;
+
+insert into usuarios values (01,'juan jorge','esparza','gutierrez','05-05-1999','espgu050599ndjhbjs','12345','Administrador');
+
+
+
+
+create table perfil(
+Nombreperfil varchar (50) primary key ,
+fkacceso varchar(50),
+foreign key (fkacceso) references accesos(idaccesos));
+
+select * from accesos;

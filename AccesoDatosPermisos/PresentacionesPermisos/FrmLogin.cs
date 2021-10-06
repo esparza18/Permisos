@@ -20,9 +20,10 @@ namespace PresentacionesPermisos
         {
             _usuarios.Nombre = txtUsuario.Text;
             _usuarios.Contrasena = txtContraseña.Text;
+            _usuarios.fkperfil = cmbperfil.text;
             if (_usuariosManejador.ExisteUsuario(_usuarios))
             {
-                if (txtUsuario.Text == "cesar andoni" && txtContraseña.Text == "password")
+                if (txtUsuario.Text == "juan jorge" && txtContraseña.Text == "12345" && cmbperfil.text == "vendedor")
                 {
                     FrmMenu formmenu = new FrmMenu();
                     formmenu.Show();

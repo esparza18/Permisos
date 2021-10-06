@@ -4,3 +4,8 @@ C:\Users\CESAR\Andoni\permisos\AccesoDatosPermisos\EntidadesPermisos\obj\Debug\E
 C:\Users\CESAR\Andoni\permisos\AccesoDatosPermisos\EntidadesPermisos\obj\Debug\EntidadesPermisos.csproj.CoreCompileInputs.cache
 C:\Users\CESAR\Andoni\permisos\AccesoDatosPermisos\EntidadesPermisos\obj\Debug\EntidadesPermisos.dll
 C:\Users\CESAR\Andoni\permisos\AccesoDatosPermisos\EntidadesPermisos\obj\Debug\EntidadesPermisos.pdb
+C:\Users\jorge 18\Juanjorge\permisos\AccesoDatosPermisos\EntidadesPermisos\bin\Debug\EntidadesPermisos.dll
+C:\Users\jorge 18\Juanjorge\permisos\AccesoDatosPermisos\EntidadesPermisos\bin\Debug\EntidadesPermisos.pdb
+C:\Users\jorge 18\Juanjorge\permisos\AccesoDatosPermisos\EntidadesPermisos\obj\Debug\EntidadesPermisos.csprojAssemblyReference.cache
+C:\Users\jorge 18\Juanjorge\permisos\AccesoDatosPermisos\EntidadesPermisos\obj\Debug\EntidadesPermisos.dll
+C:\Users\jorge 18\Juanjorge\permisos\AccesoDatosPermisos\EntidadesPermisos\obj\Debug\EntidadesPermisos.pdb

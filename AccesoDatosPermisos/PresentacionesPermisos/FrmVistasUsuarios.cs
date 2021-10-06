@@ -50,14 +50,14 @@ namespace PresentacionesPermisos
             fc.txtFecha.Text = dtgUsuarios.CurrentRow.Cells["fechanacimiento"].Value.ToString();
             fc.txtRFC.Text = dtgUsuarios.CurrentRow.Cells["rfc"].Value.ToString();
             fc.txtContraseña.Text = dtgUsuarios.CurrentRow.Cells["contrasena"].Value.ToString();
-            fc.cmbEstado.Text = dtgUsuarios.CurrentRow.Cells["fkidaccesos"].Value.ToString();
+            fc.cmbperfil.Text = dtgUsuarios.CurrentRow.Cells["fkidaccesos"].Value.ToString();
             fc.txtNombre.Enabled = false;
             fc.txtApellidop.Enabled = false;
             fc.txtApellidom.Enabled = false;
             fc.txtFecha.Enabled = false;
             fc.txtRFC.Enabled = false;
             fc.txtContraseña.Enabled = false;
-            fc.cmbEstado.Visible = true;
+            fc.cmbperfil.Visible = true;
 
             fc.ShowDialog();
         }

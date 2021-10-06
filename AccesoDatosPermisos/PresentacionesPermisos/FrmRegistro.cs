@@ -72,7 +72,7 @@ namespace PresentacionesPermisos
                 Fechanacimiento = txtFecha.Text,
                 Rfc = txtRFC.Text,
                 Contrasena = txtContraseña.Text,
-                Fkidaccesos = cmbEstado.Text
+                Fkidaccesos = cmbperfil.Text
 
 
             });

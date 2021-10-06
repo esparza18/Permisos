@@ -38,3 +38,42 @@ C:\Users\CESAR\Andoni\permisos\AccesoDatosPermisos\PresentacionesPermisos\obj\De
 C:\Users\CESAR\Andoni\permisos\AccesoDatosPermisos\PresentacionesPermisos\obj\Debug\PresentacionesPermisos.FrmVistasHerramientas.resources
 C:\Users\CESAR\Andoni\permisos\AccesoDatosPermisos\PresentacionesPermisos\obj\Debug\PresentacionesPermisos.FrmCreaProductos.resources
 C:\Users\CESAR\Andoni\permisos\AccesoDatosPermisos\PresentacionesPermisos\obj\Debug\PresentacionesPermisos.FrmVistasProductos.resources
+C:\Users\jorge 18\Juanjorge\permisos\AccesoDatosPermisos\PresentacionesPermisos\bin\Debug\PresentacionesPermisos.exe.config
+C:\Users\jorge 18\Juanjorge\permisos\AccesoDatosPermisos\PresentacionesPermisos\bin\Debug\PresentacionesPermisos.exe
+C:\Users\jorge 18\Juanjorge\permisos\AccesoDatosPermisos\PresentacionesPermisos\bin\Debug\PresentacionesPermisos.pdb
+C:\Users\jorge 18\Juanjorge\permisos\AccesoDatosPermisos\PresentacionesPermisos\bin\Debug\EntidadesPermisos.dll
+C:\Users\jorge 18\Juanjorge\permisos\AccesoDatosPermisos\PresentacionesPermisos\bin\Debug\ManejadoresPermisos.dll
+C:\Users\jorge 18\Juanjorge\permisos\AccesoDatosPermisos\PresentacionesPermisos\bin\Debug\AccesoDatosPermisos.dll
+C:\Users\jorge 18\Juanjorge\permisos\AccesoDatosPermisos\PresentacionesPermisos\bin\Debug\MySql.Data.dll
+C:\Users\jorge 18\Juanjorge\permisos\AccesoDatosPermisos\PresentacionesPermisos\bin\Debug\Google.Protobuf.dll
+C:\Users\jorge 18\Juanjorge\permisos\AccesoDatosPermisos\PresentacionesPermisos\bin\Debug\Zstandard.Net.dll
+C:\Users\jorge 18\Juanjorge\permisos\AccesoDatosPermisos\PresentacionesPermisos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\jorge 18\Juanjorge\permisos\AccesoDatosPermisos\PresentacionesPermisos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jorge 18\Juanjorge\permisos\AccesoDatosPermisos\PresentacionesPermisos\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\jorge 18\Juanjorge\permisos\AccesoDatosPermisos\PresentacionesPermisos\bin\Debug\Renci.SshNet.dll
+C:\Users\jorge 18\Juanjorge\permisos\AccesoDatosPermisos\PresentacionesPermisos\bin\Debug\System.Memory.dll
+C:\Users\jorge 18\Juanjorge\permisos\AccesoDatosPermisos\PresentacionesPermisos\bin\Debug\System.Buffers.dll
+C:\Users\jorge 18\Juanjorge\permisos\AccesoDatosPermisos\PresentacionesPermisos\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\jorge 18\Juanjorge\permisos\AccesoDatosPermisos\PresentacionesPermisos\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\jorge 18\Juanjorge\permisos\AccesoDatosPermisos\PresentacionesPermisos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jorge 18\Juanjorge\permisos\AccesoDatosPermisos\PresentacionesPermisos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jorge 18\Juanjorge\permisos\AccesoDatosPermisos\PresentacionesPermisos\bin\Debug\EntidadesPermisos.pdb
+C:\Users\jorge 18\Juanjorge\permisos\AccesoDatosPermisos\PresentacionesPermisos\bin\Debug\ManejadoresPermisos.pdb
+C:\Users\jorge 18\Juanjorge\permisos\AccesoDatosPermisos\PresentacionesPermisos\bin\Debug\AccesoDatosPermisos.pdb
+C:\Users\jorge 18\Juanjorge\permisos\AccesoDatosPermisos\PresentacionesPermisos\bin\Debug\MySql.Data.xml
+C:\Users\jorge 18\Juanjorge\permisos\AccesoDatosPermisos\PresentacionesPermisos\obj\Debug\PresentacionesPermisos.csprojAssemblyReference.cache
+C:\Users\jorge 18\Juanjorge\permisos\AccesoDatosPermisos\PresentacionesPermisos\obj\Debug\PresentacionesPermisos.exe.config
+C:\Users\jorge 18\Juanjorge\permisos\AccesoDatosPermisos\PresentacionesPermisos\obj\Debug\PresentacionesPermisos.FrmCreaHerramientas.resources
+C:\Users\jorge 18\Juanjorge\permisos\AccesoDatosPermisos\PresentacionesPermisos\obj\Debug\PresentacionesPermisos.FrmCreaProductos.resources
+C:\Users\jorge 18\Juanjorge\permisos\AccesoDatosPermisos\PresentacionesPermisos\obj\Debug\PresentacionesPermisos.FrmHerramientas.resources
+C:\Users\jorge 18\Juanjorge\permisos\AccesoDatosPermisos\PresentacionesPermisos\obj\Debug\PresentacionesPermisos.FrmLogin.resources
+C:\Users\jorge 18\Juanjorge\permisos\AccesoDatosPermisos\PresentacionesPermisos\obj\Debug\PresentacionesPermisos.FrmMenu.resources
+C:\Users\jorge 18\Juanjorge\permisos\AccesoDatosPermisos\PresentacionesPermisos\obj\Debug\PresentacionesPermisos.FrmProductos.resources
+C:\Users\jorge 18\Juanjorge\permisos\AccesoDatosPermisos\PresentacionesPermisos\obj\Debug\PresentacionesPermisos.FrmRegistro.resources
+C:\Users\jorge 18\Juanjorge\permisos\AccesoDatosPermisos\PresentacionesPermisos\obj\Debug\PresentacionesPermisos.FrmVistasHerramientas.resources
+C:\Users\jorge 18\Juanjorge\permisos\AccesoDatosPermisos\PresentacionesPermisos\obj\Debug\PresentacionesPermisos.FrmVistasProductos.resources
+C:\Users\jorge 18\Juanjorge\permisos\AccesoDatosPermisos\PresentacionesPermisos\obj\Debug\PresentacionesPermisos.FrmVistasUsuarios.resources
+C:\Users\jorge 18\Juanjorge\permisos\AccesoDatosPermisos\PresentacionesPermisos\obj\Debug\PresentacionesPermisos.csproj.GenerateResource.cache
+C:\Users\jorge 18\Juanjorge\permisos\AccesoDatosPermisos\PresentacionesPermisos\obj\Debug\PresentacionesPermisos.csproj.CopyComplete
+C:\Users\jorge 18\Juanjorge\permisos\AccesoDatosPermisos\PresentacionesPermisos\obj\Debug\PresentacionesPermisos.exe
+C:\Users\jorge 18\Juanjorge\permisos\AccesoDatosPermisos\PresentacionesPermisos\obj\Debug\PresentacionesPermisos.pdb

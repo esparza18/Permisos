@@ -17,7 +17,7 @@ namespace AccesoDatosPermisos
 
             try
             {
-                _conexion = new ConexionAccesoDatos("localhost", "root", "123456789", "permisos", 3306);
+                _conexion = new ConexionAccesoDatos("localhost", "root", "", "permisos", 3306);
             }
             catch (Exception ex)
             {

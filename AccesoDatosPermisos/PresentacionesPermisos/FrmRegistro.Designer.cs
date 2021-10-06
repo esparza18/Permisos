@@ -44,7 +44,7 @@ namespace PresentacionesPermisos
             this.label8 = new System.Windows.Forms.Label();
             this.txtContraseña = new System.Windows.Forms.TextBox();
             this.lblEstado = new System.Windows.Forms.Label();
-            this.cmbEstado = new System.Windows.Forms.ComboBox();
+            this.cmbperfil = new System.Windows.Forms.ComboBox();
             this.label1 = new System.Windows.Forms.Label();
             this.txtID = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
@@ -184,23 +184,23 @@ namespace PresentacionesPermisos
             this.lblEstado.Location = new System.Drawing.Point(92, 278);
             this.lblEstado.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.lblEstado.Name = "lblEstado";
-            this.lblEstado.Size = new System.Drawing.Size(157, 24);
+            this.lblEstado.Size = new System.Drawing.Size(50, 24);
             this.lblEstado.TabIndex = 16;
-            this.lblEstado.Text = "Estado de cuenta";
+            this.lblEstado.Text = "perfil";
             this.lblEstado.Visible = false;
             // 
-            // cmbEstado
+            // cmbperfil
             // 
-            this.cmbEstado.FormattingEnabled = true;
-            this.cmbEstado.Items.AddRange(new object[] {
+            this.cmbperfil.FormattingEnabled = true;
+            this.cmbperfil.Items.AddRange(new object[] {
             "Administrador",
             "Usuario",
             "Invitado"});
-            this.cmbEstado.Location = new System.Drawing.Point(396, 270);
-            this.cmbEstado.Name = "cmbEstado";
-            this.cmbEstado.Size = new System.Drawing.Size(180, 32);
-            this.cmbEstado.TabIndex = 17;
-            this.cmbEstado.Visible = false;
+            this.cmbperfil.Location = new System.Drawing.Point(396, 270);
+            this.cmbperfil.Name = "cmbperfil";
+            this.cmbperfil.Size = new System.Drawing.Size(180, 32);
+            this.cmbperfil.TabIndex = 17;
+            this.cmbperfil.Visible = false;
             // 
             // label1
             // 
@@ -227,7 +227,7 @@ namespace PresentacionesPermisos
             this.ClientSize = new System.Drawing.Size(598, 423);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.txtID);
-            this.Controls.Add(this.cmbEstado);
+            this.Controls.Add(this.cmbperfil);
             this.Controls.Add(this.lblEstado);
             this.Controls.Add(this.label8);
             this.Controls.Add(this.txtContraseña);
@@ -268,7 +268,7 @@ namespace PresentacionesPermisos
         public System.Windows.Forms.Label label8;
         public System.Windows.Forms.TextBox txtContraseña;
         public System.Windows.Forms.Label lblEstado;
-        public System.Windows.Forms.ComboBox cmbEstado;
+        public System.Windows.Forms.ComboBox cmbperfil;
         public System.Windows.Forms.Label label1;
         public System.Windows.Forms.TextBox txtID;
     }

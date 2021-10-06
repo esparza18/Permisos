@@ -37,6 +37,8 @@ namespace PresentacionesPermisos
             this.txtUsuario = new System.Windows.Forms.TextBox();
             this.btnInvitado = new System.Windows.Forms.Button();
             this.btnRegistra = new System.Windows.Forms.Button();
+            this.label1 = new System.Windows.Forms.Label();
+            this.lblperfil = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // BtnCancelar
@@ -64,7 +66,7 @@ namespace PresentacionesPermisos
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(70, 181);
+            this.label6.Location = new System.Drawing.Point(70, 76);
             this.label6.Margin = new System.Windows.Forms.Padding(11, 0, 11, 0);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(103, 24);
@@ -73,7 +75,7 @@ namespace PresentacionesPermisos
             // 
             // txtContraseña
             // 
-            this.txtContraseña.Location = new System.Drawing.Point(302, 172);
+            this.txtContraseña.Location = new System.Drawing.Point(284, 91);
             this.txtContraseña.Margin = new System.Windows.Forms.Padding(11);
             this.txtContraseña.Name = "txtContraseña";
             this.txtContraseña.PasswordChar = '*';
@@ -83,7 +85,7 @@ namespace PresentacionesPermisos
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(70, 105);
+            this.label5.Location = new System.Drawing.Point(70, 21);
             this.label5.Margin = new System.Windows.Forms.Padding(11, 0, 11, 0);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(174, 24);
@@ -92,7 +94,7 @@ namespace PresentacionesPermisos
             // 
             // txtUsuario
             // 
-            this.txtUsuario.Location = new System.Drawing.Point(302, 96);
+            this.txtUsuario.Location = new System.Drawing.Point(284, 21);
             this.txtUsuario.Margin = new System.Windows.Forms.Padding(11);
             this.txtUsuario.Name = "txtUsuario";
             this.txtUsuario.Size = new System.Drawing.Size(253, 29);
@@ -120,11 +122,32 @@ namespace PresentacionesPermisos
             this.btnRegistra.UseVisualStyleBackColor = true;
             this.btnRegistra.Click += new System.EventHandler(this.btnRegistra_Click);
             // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(70, 149);
+            this.label1.Margin = new System.Windows.Forms.Padding(11, 0, 11, 0);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(50, 24);
+            this.label1.TabIndex = 22;
+            this.label1.Text = "perfil";
+            // 
+            // lblperfil
+            // 
+            this.lblperfil.Location = new System.Drawing.Point(284, 149);
+            this.lblperfil.Margin = new System.Windows.Forms.Padding(11);
+            this.lblperfil.Name = "lblperfil";
+            this.lblperfil.PasswordChar = '*';
+            this.lblperfil.Size = new System.Drawing.Size(253, 29);
+            this.lblperfil.TabIndex = 23;
+            // 
             // FrmLogin
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 24F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(608, 422);
+            this.Controls.Add(this.lblperfil);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.btnRegistra);
             this.Controls.Add(this.btnInvitado);
             this.Controls.Add(this.BtnCancelar);
@@ -152,5 +175,7 @@ namespace PresentacionesPermisos
         private System.Windows.Forms.TextBox txtUsuario;
         private System.Windows.Forms.Button btnInvitado;
         private System.Windows.Forms.Button btnRegistra;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.TextBox lblperfil;
     }
 }
